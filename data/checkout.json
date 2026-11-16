@@ -1,0 +1,4 @@
+{
+  "comprador": {"nombre": "Ana", "apellido": "Prueba", "codigo_postal": "1425"},
+  "productos": ["sauce-labs-backpack", "sauce-labs-bike-light"]
+}
