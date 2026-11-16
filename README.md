@@ -1,3 +1,4 @@
+Autora: Susana Romina Niño
 # Proyecto final: framework de automatización de pruebas
 
 ## Propósito
